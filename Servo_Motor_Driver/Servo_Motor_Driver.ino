@@ -1,9 +1,6 @@
 /* Sweep
- by BARRAGAN <http://barraganstudio.com> 
- This example code is in the public domain.
-
- modified 8 Nov 2013
- by Scott Fitzgerald
+Modified by: Chung Zheng
+A modified version of the sweep script by Scott Fitzgerald
  http://arduino.cc/en/Tutorial/Sweep
 */ 
 
